@@ -17,6 +17,8 @@ body, html {
   
   .nav-link {
     color: white !important;
+    position: sticky;
+    margin-top:0;  
   }
   
   .hero {
